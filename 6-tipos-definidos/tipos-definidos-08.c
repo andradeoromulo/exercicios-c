@@ -7,7 +7,7 @@ exiba os nomes da pessoa mais nova e da mais velha.
 #include <stdlib.h>
 #include <stdio.h> 
 #include <string.h>
-#define MAX 3
+#define MAX 6
 
 typedef struct {
 	int dia;
