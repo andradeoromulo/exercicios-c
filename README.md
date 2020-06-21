@@ -1,6 +1,6 @@
 # Exercícios C
 
-Soluções de *alguns* dos exercícios propostos no livro "Linguagem C: completa e descomplicada", do Prof. André Backes.
+Soluções de *alguns* dos exercícios propostos no livro **"Linguagem C: completa e descomplicada"**, do **Prof. André Backes**.
  
 Os códigos estão separados em tópicos de acordo com a ordem adotada pelo livro. Dentro de cada código, há o enunciado da questão a ser resolvida. 
 
