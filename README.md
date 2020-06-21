@@ -1,6 +1,6 @@
 # Exercícios C
 
-Soluções de *alguns*[^1] exercícios propostos no livro "Linguagem C: completa e descomplicada", do Prof. André Backes.
+Soluções de *alguns* dos exercícios propostos no livro "Linguagem C: completa e descomplicada", do Prof. André Backes.
  
 Os códigos estão separados em tópicos de acordo com a ordem adotada pelo livro. Dentro de cada código, há o enunciado da questão a ser resolvida. 
 
@@ -11,5 +11,3 @@ Os códigos estão separados em tópicos de acordo com a ordem adotada pelo livr
 4. Vetores e matrizes
 5. Strings
 6. Tipos definidos (struct, enum, typedef)
-
-[^1]: Não fiz todos os exercícios propostos, mas sim os que julguei como mais interessantes.
