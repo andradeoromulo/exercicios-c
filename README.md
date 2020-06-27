@@ -11,3 +11,4 @@ Os códigos estão separados em tópicos de acordo com a ordem adotada pelo livr
 4. Vetores e matrizes
 5. Strings
 6. Tipos definidos (struct, enum, typedef)
+7. Funções
